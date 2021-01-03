@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Yulia 🙋🏻‍♀️
 ## I’m currently learning React 👩🏻‍💻
-![alt text](https://rozetked.me/images/uploads/eHnoi9AEdz0u.gif)	
+![alt text](https://raw.githubusercontent.com/knickers/chrome-t-rex-game/master/t-rex.gif)	
 #### 💬 Ask me about anything
 #### 📫 How to reach me sivonenkoyulia@gmail.com
